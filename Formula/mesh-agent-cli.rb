@@ -3,8 +3,8 @@ require "language/node"
 class MeshAgentCli < Formula
   desc "Mesh terminal agent CLI"
   homepage "https://github.com/dreddi-edit/mesh-agent-cli"
-  url "https://registry.npmjs.org/@edgarelmo/mesh-agent-cli/-/mesh-agent-cli-0.2.64.tgz"
-  sha256 "52bad62adf230a6704c8c957d51c229c225f8855ebcde65fe637112d422b6813"
+  url "https://registry.npmjs.org/@edgarelmo/mesh-agent-cli/-/mesh-agent-cli-0.2.65.tgz"
+  sha256 "c87fb08e751def2f785c5839dedb19fad82c64bf88b86eae727d2e8d3435505c"
   license "MIT"
 
   depends_on "node"
