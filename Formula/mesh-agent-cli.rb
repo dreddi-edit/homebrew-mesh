@@ -3,8 +3,8 @@ require "language/node"
 class MeshAgentCli < Formula
   desc "Mesh terminal agent CLI"
   homepage "https://github.com/dreddi-edit/mesh-agent-cli"
-  url "https://registry.npmjs.org/@edgarelmo/mesh-agent-cli/-/mesh-agent-cli-0.3.12.tgz"
-  sha256 "c0d001517d36268ab6d77885bb495117b58632f87053f204cf3d00a9ee4f33a5"
+  url "https://registry.npmjs.org/@edgarelmo/mesh-agent-cli/-/mesh-agent-cli-0.3.13.tgz"
+  sha256 "c0de6c1be385156e69dee13ad31dcf193a87a7475c5a92b4ab0fb016fcd7af6a"
   # The npm package is UNLICENSED/all rights reserved. Homebrew uses
   # :cannot_represent when no supported SPDX license applies.
   license :cannot_represent
